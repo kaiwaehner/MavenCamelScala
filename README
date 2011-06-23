@@ -1,0 +1,5 @@
+CamelStarter.scala is the main class of this project. The test class is also working.
+
+Maven is used for getting the dependencies. If you want to use another Scala or Camel version, you can change the pom.xml. 
+
+This is an IntelliJ IDEA project. If you want to use it in Eclipse, you have to add some configuration in the pom.xml to support the Scala-Eclipse-Plugin.
